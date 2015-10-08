@@ -9,7 +9,7 @@ $ lein test
 
 ## Notes
 
-https://projecteuler.net/profile/bwlucas.png
+<img src="https://projecteuler.net/profile/bwlucas.png"/>
 
 ## License
 
