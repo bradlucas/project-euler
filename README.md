@@ -32,6 +32,9 @@ Clojure solutions to Project Euler problems.
 * [Problem 041](https://github.com/bradlucas/project-euler/blob/master/src/project_euler/problem_041.clj)
 * [Problem 067](https://github.com/bradlucas/project-euler/blob/master/src/project_euler/problem_067.clj)
 
+## Run
+
+$ lein run 'problem number'
 
 ## Test
 
