@@ -20,4 +20,4 @@
         (println "Completed problem numbers are " (clojure.string/join " " completed-problem-numbers))
         )
       )
-    (println "Enter number: 1-25, 41 or 67")))
+    (println "Enter number: 1-25, 41, 55 or 67")))
