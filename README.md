@@ -1,6 +1,6 @@
 # project-euler
 
-Clojure solutions to Project Euler problems.
+My Clojure solutions to selected Project Euler problems.
 
 ## Links
 
@@ -35,7 +35,7 @@ Clojure solutions to Project Euler problems.
 
 ## Run
 
-$ lein run 'problem number'
+$ lein run 'number_of_problem'
 
 ## Test
 
